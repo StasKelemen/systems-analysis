@@ -1,4 +1,4 @@
 # systems-analysis
-### Системний аналіз
-1. Створення UML-діаграм: прецендентів (use case), класів, взаємодії та послідовності, а також інфологічна та даталогічна моделі. Предметна область покупка товарів в інтернет-магазині.
-2. Реалізація різноманітних патернів програмування у вигаданому контексті
+
+1. UML diagrams: use case, class, collaboration, and sequence. Infological and datalogical models. Subject area: online shopping.
+2. Patterns implementation in artificial context.
